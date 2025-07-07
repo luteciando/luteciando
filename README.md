@@ -10,10 +10,7 @@
 🚀 **Buscando minha primeira oportunidade como Programador Júnior.**
 
 🔗 **Veja meus projetos:**
-- [Cordel Moderno](https://github.com/luteciando/CordelModerno)
-- [Site Android](https://github.com/luteciando/SiteAndroid)
-- [todo-list](https://github.com/luteciando/todo-list)
-- [API Simples](https://github.com/luteciando/APISimples)
+ - https://luteciando.github.io/Portfolio/
 
 💡 **Contato:**
 - 📧 otaviolutecio@gmail.com
